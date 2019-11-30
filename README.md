@@ -1,1 +1,1 @@
-# Applied_Crypto
+# Applied Cryptography Course
